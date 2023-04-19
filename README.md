@@ -1,5 +1,7 @@
 # Pancakeswap-bot
-Dex/Pancakeswap bot using Python language
+Dex/Pancakeswap bot
+
+Source code is Python based, using PYQT5 as GUI, support multi wallets, intergated with Honeypot checker, approve, buy and sell function
 
 Contact Telegram: @CryptoJoinSmith for price (only for source code now).
 
